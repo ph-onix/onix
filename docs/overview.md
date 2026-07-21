@@ -2,16 +2,24 @@
   "title": "Project Name",
   "items": [
     {
-      "source": "section-a"
+      "source": "section-a",
       "items": { 
         "title": "Section A (basics)", 
         "items": [ 
-          {"source": "doc.md", "title": "A Doc About Docs"}, 
-          {"source": "noexists.md", "title": "Wasm VM"} 
+          {
+            "source": "doc.md", 
+            "title": "A Doc About Docs"
+          }, 
+          {
+            "source": "noexists.md", 
+            "title": "Wasm VM"
+          } 
         ]
       }
     },
-    {"source": "section-b"}
+    {
+      "source": "section-b"
+    }
   ]
 }
 ---

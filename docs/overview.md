@@ -1,5 +1,9 @@
 {
-  "sections": ["section-b", "section-a"]
+  "title": "Project Name",
+  "items": [
+    {"source": "section-b"},
+    {"source": "section-a"}
+  ]
 }
 ---
 

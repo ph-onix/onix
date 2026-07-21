@@ -1,8 +1,8 @@
 {
   "title": "Section A (basics)",
   "items": [
-    {"file": "doc.md", "title": "A Doc About Docs"},
-    {"file": "noexists.md", "title": "Wasm VM"}
+    {"source": "doc.md", "title": "A Doc About Docs"},
+    {"source": "noexists.md", "title": "Wasm VM"}
   ]
 }
 ---

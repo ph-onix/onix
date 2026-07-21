@@ -1,6 +1,6 @@
-sections:
-  - section-b
-  - section-a
+{
+  "sections": ["section-b", "section-a"]
+}
 ---
 
 # Project Name

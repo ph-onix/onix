@@ -5,7 +5,7 @@
       "source": "section-a",
       "items": { 
         "title": "Section A (basics)", 
-        "items": [ 
+        "items": [
           {
             "source": "doc.md", 
             "title": "A Doc About Docs"
